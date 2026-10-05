@@ -1,0 +1,1 @@
+{"axioms":{"dark_capacity_residual":0.07,"recoverable_sector_capacity":0.93},"framework":"Unified Triality Pipeline","hardware_calibration":{"faraday_enclosure_isolation_db":-120.0,"spectrum_analyzer_noise_floor_dbm_hz":-155.0,"squid_magnetometer_distance_mm":3.5},"thresholds":{"extended_qec_fault_horizon":0.125,"raw_attentional_noise_fraction_limit":0.05},"version":"6.0"}
