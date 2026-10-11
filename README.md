@@ -6,7 +6,7 @@ ML and physics layers, protection and verification drivers, plus the
 computed D4 triality theory and the guard mechanisms.
 
 # Authors - Arthur Leroy Jones
-# Author UCT Theory - Mikey-506
+# Author UCT Theory - Mikey
 # Independent Researcher - Abby Davis
 
 - **Classification:** Advanced Non-Equilibrium Open Quantum Systems
